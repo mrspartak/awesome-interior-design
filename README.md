@@ -4,15 +4,32 @@ A curated collection of interior design resources for professionals and enthusia
 
 ## Table of Contents
 - [Getting Started](#getting-started)
+  - [How to Use This Repository](#how-to-use-this-repository)
 - [Resource Categories](#resource-categories)
   - [📚 Design Fundamentals](#-design-fundamentals)
   - [🎨 Color & Materials](#-color--materials)
   - [📐 Space Planning](#-space-planning)
   - [💻 Software & Tools](#-software--tools)
+    - [🔨 CAD & 3D Modeling](#-cad--3d-modeling)
+    - [🎨 Rendering & Visualization](#-rendering--visualization)
+    - [📐 Space Planning & Floor Plans](#-space-planning--floor-plans)
+    - [⚡ Project Management](#-project-management)
+    - [🎯 Specialized Tools](#-specialized-tools)
   - [📱 Apps & Online Tools](#-apps--online-tools)
   - [📖 Learning Resources](#-learning-resources)
-  - [🛠️ Professional Resources](%EF%B8%8F-professional-resources)
+  - - [🛠️ Professional Resources](#️-professional-resources)
+    - [📊 Business Templates & Documents](#-business-templates--documents)
+    - [💼 Business Development](#-business-development)
+    - [📋 Project Management Resources](#-project-management-resources)
+    - [🤝 Client Communication](#-client-communication)
+    - [📚 Industry Standards & Guidelines](#-industry-standards--guidelines)
+    - [📈 Business Tools & Calculators](#-business-tools--calculators)
+    - [🔍 Professional Directories & Networks](#-professional-directories--networks)
+    - [📦 Procurement & Sourcing](#-procurement--sourcing)
 - [Contributing](#contributing)
+  - [How to Contribute](#how-to-contribute)
+  - [Contribution Guidelines](#contribution-guidelines)
+- [Acknowledgments](#acknowledgments)
 
 ## Getting Started
 
@@ -110,12 +127,27 @@ This repository aims to be the ultimate collection of interior design resources.
 - Podcasts
 
 ### 🛠️ Professional Resources
-- Industry standards
-- Business templates
-- Client communication guides
-- Pricing guides
-- Listing / Directories
-   - [Interior designers list](https://mystofa.com/interior-designers)
+
+#### 📊 Business Templates & Documents
+
+#### 💼 Business Development
+
+#### 📋 Project Management Resources
+
+#### 🤝 Client Communication
+
+#### 📚 Industry Standards & Guidelines
+
+#### 📈 Business Tools & Calculators
+
+#### 🔍 Professional Directories & Networks
+- [Interior designers list](https://mystofa.com/interior-designers) - Professional listing with portfolios on a client-heavy website
+- [Interior Design Society (IDS)](theidslist.com/) - Membership-based directory of certified interior designers, focused on residential design professionals
+- [ASID Find a Pro](https://www.asid.org/find-a-pro) - Comprehensive directory of American Society of Interior Designers members with advanced search options
+- [Houzz Professionals](https://www.houzz.com/professionals/interior-designer) - Extensive directory with project photos, reviews, and direct communication features
+- [BIID Find a Designer](https://biid.org.uk/find-interior-designer) - UK's leading directory of registered interior designers with qualification verification
+
+#### 📦 Procurement & Sourcing
 
 ## Contributing
 
@@ -136,6 +168,9 @@ We welcome contributions from the interior design community! Please read our [co
 ## Acknowledgments
 
 Special thanks to all contributors who help make this resource collection possible! 🙏
+
+### Contributors: 
+- [Design Labodina](https://labodina.com/) - Interior Designer, Amsterdam, Netherlands
 
 ---
 ⭐️ Found this useful? Show your support by starring this repository!
