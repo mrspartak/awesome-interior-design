@@ -55,6 +55,7 @@ This repository aims to be the ultimate collection of interior design resources.
 
 ### 🎨 Color & Materials
 - Color palettes and schemes
+  - [List of interior colors](https://mystofa.com/colors) 
 - Material libraries
 - Texture resources
 - Finish guides
