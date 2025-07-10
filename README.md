@@ -10,6 +10,7 @@ A curated collection of interior design resources for professionals and enthusia
 - [Resource Categories](#resource-categories)
   - [📚 Design Fundamentals](#-design-fundamentals)
   - [🎨 Color & Materials](#-color--materials)
+  - [📈 Trends & Inspiration](#-trends--inspiration)
   - [📐 Space Planning](#-space-planning)
   - [💻 Software & Tools](#-software--tools)
     - [🔨 CAD & 3D Modeling](#-cad--3d-modeling)
@@ -59,6 +60,9 @@ This repository aims to be the ultimate collection of interior design resources.
 - Material libraries
 - Texture resources
 - Finish guides
+
+### 📈 Trends & Inspiration
+- [Interior Design Styles Trends 2025](https://mystofa.com/infographics/interior-style-trends) - Prefered interior design styles by users completing the quiz across the globe
 
 ### 📐 Space Planning
 - Room layout principles
@@ -118,6 +122,7 @@ This repository aims to be the ultimate collection of interior design resources.
 - Color matching apps
 - Room planners
 - Measurement tools
+  - [Wall Area Calculator](https://mystofa.com/tools/room-wall-area-calculator)
 - Design calculators
 - Interior style quizes
   - [Free and very accurate interior design quiz](https://mystofa.com/quizes/design-test) 
