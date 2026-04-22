@@ -1,5 +1,7 @@
 # Awesome Interior Design Resources 🏠
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 ![Awesome Interior Design Resources Banner](https://github.com/mrspartak/awesome-interior-design/blob/main/banner.png?raw=true)
 
 A curated collection of interior design resources for professionals and enthusiasts. Includes design principles, color palettes, space planning, furniture layouts, CAD tools, material libraries, and professional tips. Find hand-picked blogs, books, software, and free resources to create beautiful spaces.
@@ -8,6 +10,7 @@ A curated collection of interior design resources for professionals and enthusia
 - [Getting Started](#getting-started)
   - [How to Use This Repository](#how-to-use-this-repository)
 - [Resource Categories](#resource-categories)
+  - [⭐ Featured Designers](#-featured-designers)
   - [📚 Design Fundamentals](#-design-fundamentals)
   - [🎨 Color & Materials](#-color--materials)
   - [📈 Trends & Inspiration](#-trends--inspiration)
@@ -20,7 +23,7 @@ A curated collection of interior design resources for professionals and enthusia
     - [🎯 Specialized Tools](#-specialized-tools)
   - [📱 Apps & Online Tools](#-apps--online-tools)
   - [📖 Learning Resources](#-learning-resources)
-  - - [🛠️ Professional Resources](#️-professional-resources)
+  - [🛠️ Professional Resources](#️-professional-resources)
     - [📊 Business Templates & Documents](#-business-templates--documents)
     - [💼 Business Development](#-business-development)
     - [📋 Project Management Resources](#-project-management-resources)
@@ -47,28 +50,45 @@ This repository aims to be the ultimate collection of interior design resources.
 
 ## Resource Categories
 
+### ⭐ Featured Designers
+
+- [Design Labodina](https://labodina.com/) — Sophisticated interior design studio based in Amsterdam, delivering bespoke residential design across the EU. Specializes in Japandi, Quiet Luxury, and Mid-Century Modern aesthetics.
+  - [Portfolio: Contemporary Family Haven, Amsterdam](https://labodina.com/portfolio/22-Contemporary-Family-Haven-Full-Scale-Apartment-Transformation-in-Frankendael-Amsterdam) — Full-scale apartment transformation blending minimalist Scandinavian design in Frankendael, Amsterdam
+  - [Portfolio: Alabama Japandi Retreat](https://labodina.com/portfolio/31-Alabama-Japandi-Retreat-Remote-Design-for-Modern-Minimalist-Living) — Remote design project for modern minimalist living
+  - [Blog: Notes of an Interior Designer](https://labodina.com/blog/category/10-notes-of-an-interior-designer) — Practical design insights from a professional Amsterdam-based interior designer
+  - [Shop](https://shop.labodina.com/) — Curated interior design products
+
 ### 📚 Design Fundamentals
 - Principles of interior design
 - Color theory and psychology
 - Space planning basics
 - Design styles and movements
-  - [List of interior design styles](https://mystofa.com/interior-styles)
+  - [Interior Design Styles Guide](https://mystofa.com/interior-styles) — Comprehensive overview of all major interior design aesthetics with visual examples
+  - [Japandi Interior Style](https://mystofa.com/interior-styles/japandi) — Minimalist fusion of Japanese wabi-sabi and Scandinavian hygge design philosophies
+  - [Quiet Luxury Interior Style](https://mystofa.com/interior-styles/quiet-luxury) — Understated elegance through quality materials and refined, timeless aesthetics
 
 ### 🎨 Color & Materials
 - Color palettes and schemes
-  - [List of interior colors](https://mystofa.com/colors) 
+  - [Interior Color Guide](https://mystofa.com/colors) — Extensive library of interior design colors with curated palettes and combinations
+  - [Greige Color Palette](https://mystofa.com/colors/greige) — The versatile grey-beige blend popular in contemporary neutral interiors
 - Material libraries
 - Texture resources
 - Finish guides
 
 ### 📈 Trends & Inspiration
-- [Interior Design Styles Trends 2025](https://mystofa.com/infographics/interior-style-trends) - Prefered interior design styles by users completing the quiz across the globe
+- [Interior Design Style Trends 2025](https://mystofa.com/infographics/interior-style-trends) — Preferred interior design styles by users completing the quiz across the globe
+- [US Interior Design Trends 2025 by State](https://mystofa.com/infographics/us-design-trends-by-state-2025) — Data-driven analysis of regional design preferences across America
+- [Interior Design Infographics Hub](https://mystofa.com/infographics) — Visual trend reports built from quiz data of 200,000+ users worldwide
+- [Room & Space Design Ideas](https://mystofa.com/rooms) — Curated design inspiration across every room type
 
 ### 📐 Space Planning
 - Room layout principles
 - Furniture arrangement guides
 - Ergonomics resources
 - Space optimization techniques
+- Room-specific inspiration
+  - [Bedroom Design & Decor Ideas](https://mystofa.com/rooms/bedroom) — Curated bedroom layouts, styles, and decor inspiration
+  - [All Room & Space Ideas](https://mystofa.com/rooms) — Browse design ideas across all room types from living rooms to kitchens
 
 ### 💻 Software & Tools
 
@@ -116,21 +136,28 @@ This repository aims to be the ultimate collection of interior design resources.
 - [Spoak](https://www.spoak.com) - Design tool suite with product sourcing and mood boards
 - [Adobe Color](https://color.adobe.com/) - Free color palette creation and exploration tool
 - [Colormind](http://colormind.io/) - AI-powered color palette generator
-- [Interio Design Quiz](https://mystofa.com/quizes/design-test) - Quiz to find your clients interior design style preferences
+- [Interior Design Quiz](https://mystofa.com/quizes/design-test) - Quiz to find your clients interior design style preferences
   
 ### 📱 Apps & Online Tools
 - Color matching apps
 - Room planners
-- Measurement tools
-  - [Wall Area Calculator](https://mystofa.com/tools/room-wall-area-calculator)
-- Design calculators
-- Interior style quizes
-  - [Free and very accurate interior design quiz](https://mystofa.com/quizes/design-test) 
+- Measurement tools & calculators
+  - [Wall Area Calculator](https://mystofa.com/tools/room-wall-area-calculator) — Measure walls, subtract doors and windows, and plan material quantities accurately
+  - [Paint Calculator](https://mystofa.com/tools/wall-paint-calculator) — Instant paint quantity estimates for any room size
+- Design inspiration
+  - [Room & Space Design Ideas](https://mystofa.com/rooms) — Browse curated design ideas for every room type
+- Interior style quizzes
+  - [Free and very accurate interior design quiz](https://mystofa.com/quizes/design-test)
 
 ### 📖 Learning Resources
 - Online courses
 - Tutorial collections
 - Design blogs
+  - [Design Labodina Blog](https://labodina.com/blog/category/10-notes-of-an-interior-designer) — Practical design insights and guides from an Amsterdam-based interior design professional
+  - [Quiet Luxury: The Art of Understated Elegance](https://labodina.com/blog/post/270-Quiet-Luxury-The-Art-of-Understated-Elegance-in-Interior-Design) — In-depth guide to the quiet luxury design aesthetic
+  - [Old Money Interiors: A Classic and Timeless Design Style](https://labodina.com/blog/post/269-Old-Money-Interiors-A-Classic-and-Timeless-Design-Style) — Guide to classic, refined interior aesthetics
+  - [Wood in Interior Design](https://labodina.com/blog/post/262-Wood-in-Interior-Design-How-to-Enjoy-Your-Home-to-the-Fullest) — How to incorporate wood for warm, inviting spaces
+  - [Reviving Mid-Century Modern Design](https://labodina.com/blog/post/251-Reviving-the-Creativity-of-1940s-60s-Designers-in-Modern-Mid-Century-Modern-Interiors) — Bringing 1940s–60s creativity into contemporary interiors
 - YouTube channels
 - Podcasts
 
