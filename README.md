@@ -167,6 +167,7 @@ This repository aims to be the ultimate collection of interior design resources.
 - [Ivy](https://www.ivy.co/) - Project management and business software for interior designers
 - [Design Manager](https://www.designmanager.com/) - Project and business management software for interior design professionals
 - [Mydoma Studio](https://www.mydomastudio.com/) - Client management and project collaboration platform
+- [Diako Studio](https://diakostudio.com/) - Project management software for interior design studios.
 
 #### 🎯 Specialized Tools
 - [Morpholio Board](https://www.morpholioapps.com/board) - Digital mood board creation app
