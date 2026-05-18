@@ -194,6 +194,7 @@ This repository aims to be the ultimate collection of interior design resources.
 #### Measurement Tools & Calculators
   - [Wall Area Calculator](https://mystofa.com/tools/room-wall-area-calculator) — Measure walls, subtract doors and windows, and plan material quantities accurately
   - [Paint Calculator](https://mystofa.com/tools/wall-paint-calculator) — Instant paint quantity estimates for any room size
+  - [RoofingCalculatorHQ](https://roofingcalculatorhq.com/) — Roof area, pitch, material cost, and renovation estimate calculators across 10 locales (CC-BY 4.0 datasets)
 - Design inspiration
   - [Room & Space Design Ideas](https://mystofa.com/rooms) — Browse curated design ideas for every room type
 - Interior style quizzes
