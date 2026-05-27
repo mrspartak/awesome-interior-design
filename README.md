@@ -149,6 +149,7 @@ This repository aims to be the ultimate collection of interior design resources.
 - [Twinmotion](https://www.unrealengine.com/twinmotion) - Real-time immersive 3D visualization tool
 - [Corona Renderer](https://www.chaos.com/corona) - High-performance photorealistic renderer
 - [D5 Render](https://www.d5render.com/) - Real-time rendering engine with AI-enhanced features
+- [LandscapioAI](https://www.landscapioai.com/) - AI landscape design and exterior visualization tool for generating realistic outdoor concepts
 - [KeyShot](https://www.keyshot.com/) - Easy-to-use rendering software popular for furniture visualization
   
 #### 📐 Space Planning & Floor Plans
