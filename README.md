@@ -217,6 +217,7 @@ This repository aims to be the ultimate collection of interior design resources.
   - [Wood in Interior Design](https://labodina.com/blog/post/262-Wood-in-Interior-Design-How-to-Enjoy-Your-Home-to-the-Fullest) — How to incorporate wood for warm, inviting spaces
   - [Reviving Mid-Century Modern Design](https://labodina.com/blog/post/251-Reviving-the-Creativity-of-1940s-60s-Designers-in-Modern-Mid-Century-Modern-Interiors) — Bringing 1940s–60s creativity into contemporary interiors
 - [Apartment Therapy](https://www.apartmenttherapy.com/) — Award-winning home decor and design community with guides for every room and style
+- [Mosaic Age — Turkish Lamp Guide](https://mosaicage.com/blogs/turkish-lamp-guide) — In-depth guides on decorating with handmade mosaic-glass lamps: choosing color, shape, and styling room by room
 
 #### YouTube Channels
 - [Studio McGee](https://www.youtube.com/@StudioMcGee) — Home tours, styling tips, and behind-the-scenes design projects from the McGee & Co team
