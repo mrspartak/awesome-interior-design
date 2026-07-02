@@ -178,6 +178,7 @@ This repository aims to be the ultimate collection of interior design resources.
 - [Adobe Color](https://color.adobe.com/) - Free color palette creation and exploration tool
 - [Colormind](http://colormind.io/) - AI-powered color palette generator
 - [Interior Design Quiz](https://mystofa.com/quizes/design-test) - Quiz to find your clients interior design style preferences
+- [Klackjoy](https://www.klackjoy.com) - 3D configurator for USM Haller-compatible modular furniture; design custom sideboards and shelving with real-time preview, factory-direct
   
 ### 📱 Apps & Online Tools
 
