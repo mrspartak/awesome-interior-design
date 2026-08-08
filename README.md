@@ -192,6 +192,7 @@ This repository aims to be the ultimate collection of interior design resources.
 - [Floor Planner](https://floorplanner.com/) — Easy-to-use browser-based floor plan creator, free tier available
 
 #### Measurement Tools & Calculators
+  - [Build Quantities](https://buildquantities.com/) — Free browser-based calculators for concrete, blocks, sand, gravel, asphalt, and other building-material quantities with metric and imperial inputs
   - [Wall Area Calculator](https://mystofa.com/tools/room-wall-area-calculator) — Measure walls, subtract doors and windows, and plan material quantities accurately
   - [Paint Calculator](https://mystofa.com/tools/wall-paint-calculator) — Instant paint quantity estimates for any room size
 - Design inspiration
