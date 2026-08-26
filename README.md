@@ -188,12 +188,14 @@ This repository aims to be the ultimate collection of interior design resources.
 
 #### Room Planners
 - [RoomSketcher](https://www.roomsketcher.com/) — Online floor plan and home design tool with 3D walkthroughs
+- [RoomsGPT](https://www.roomsgpt.io/) — Free AI interior design from a photo. Upload a room or home and generate redesigns in 61+ styles, no signup required
 - [Planner 5D](https://planner5d.com/) — Online interior design tool with AR capabilities and a large furniture library
 - [Floor Planner](https://floorplanner.com/) — Easy-to-use browser-based floor plan creator, free tier available
 
 #### Measurement Tools & Calculators
   - [Wall Area Calculator](https://mystofa.com/tools/room-wall-area-calculator) — Measure walls, subtract doors and windows, and plan material quantities accurately
   - [Paint Calculator](https://mystofa.com/tools/wall-paint-calculator) — Instant paint quantity estimates for any room size
+  - [Gallery Wall Planner](https://gallerywallplanner.com/) — Free measured gallery-wall layouts with real frame sizes, floor coordinates, hardware offsets, and printable install plans
 - Design inspiration
   - [Room & Space Design Ideas](https://mystofa.com/rooms) — Browse curated design ideas for every room type
 - Interior style quizzes
