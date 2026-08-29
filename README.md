@@ -189,6 +189,7 @@ This repository aims to be the ultimate collection of interior design resources.
 #### Room Planners
 - [RoomSketcher](https://www.roomsketcher.com/) — Online floor plan and home design tool with 3D walkthroughs
 - [RoomsGPT](https://www.roomsgpt.io/) — Free AI interior design from a photo. Upload a room or home and generate redesigns in 61+ styles, no signup required
+- [HomeGPT](https://homegpt.app/) — Free AI home, exterior, and garden redesign from a photo; no signup required
 - [Planner 5D](https://planner5d.com/) — Online interior design tool with AR capabilities and a large furniture library
 - [Floor Planner](https://floorplanner.com/) — Easy-to-use browser-based floor plan creator, free tier available
 
