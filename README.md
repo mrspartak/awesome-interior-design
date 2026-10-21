@@ -185,6 +185,7 @@ This repository aims to be the ultimate collection of interior design resources.
 - [Benjamin Moore Color Portfolio App](https://www.benjaminmoore.com/en-us/color-portfolio-paint-matching-app) — Visualize paint colors in your space via AR and match any color with ColorReader
 - [Sherwin-Williams ColorSnap Visualizer](https://www.sherwin-williams.com/en-us/color/color-tools/color-visualizer) — Explore 1,700 colors in real time with AR and save custom palettes
 - [Adobe Color](https://color.adobe.com/) — Free browser-based color wheel, palette builder, and harmony rule explorer
+- [Color Visualizer AI](https://colorvisualizerai.com/) — Upload a photo of your house or room and try new paint colors on walls, siding, trim and doors with AI (commercial, freemium: free to start)
 
 #### Room Planners
 - [RoomSketcher](https://www.roomsketcher.com/) — Online floor plan and home design tool with 3D walkthroughs
