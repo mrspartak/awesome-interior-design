@@ -150,6 +150,7 @@ This repository aims to be the ultimate collection of interior design resources.
 - [Corona Renderer](https://www.chaos.com/corona) - High-performance photorealistic renderer
 - [D5 Render](https://www.d5render.com/) - Real-time rendering engine with AI-enhanced features
 - [KeyShot](https://www.keyshot.com/) - Easy-to-use rendering software popular for furniture visualization
+- [Spaceora](https://spaceora.app) - AI room and garden designer — redesign interiors, virtually stage, and plan landscapes from a single photo.
   
 #### 📐 Space Planning & Floor Plans
 - [RoomSketcher](https://www.roomsketcher.com/) - Online floor plan and home design tool
