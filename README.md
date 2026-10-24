@@ -290,6 +290,7 @@ This repository aims to be the ultimate collection of interior design resources.
 - [Thibaut](https://www.thibautdesign.com/) — Designer wallpaper, fabric, rugs, and furniture collections for trade professionals
 - [Fabricut](https://www.fabricut.com/) — One of the largest trade distributors of fabrics, wallcoverings, trimmings, and rugs
 - [Material Bank](https://www.materialbank.com/) — Next-day material sampling platform aggregating hundreds of design brands in one order
+- [ENCORE Lighting](https://encore-tech.com/) — Shenzhen-based LED lighting manufacturer supplying architectural and commercial lighting solutions for projects such as museums, galleries, hotels, retail spaces, and residential interiors.
 
 ## Contributing
 
