@@ -182,6 +182,7 @@ This repository aims to be the ultimate collection of interior design resources.
 
 #### 🤖 AI Interior Design Tools
 - [myStofa Studio](https://studio.mystofa.com) — AI interior design consultation: describe your space and style, get a personalized design concept with layout, color palette, materials, and furniture recommendations, grounded in data from 200,000+ style quiz users
+- [StagingBench](https://stagingbench.org/) — Independent, free benchmark of AI virtual staging tools: the same 10 rooms staged by every tool and shown side by side, re-tested monthly
 
   
 ### 📱 Apps & Online Tools
