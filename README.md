@@ -87,6 +87,7 @@ This repository aims to be the ultimate collection of interior design resources.
 - [Interior Color Guide](https://mystofa.com/colors) — Extensive library of interior design colors with curated palettes and combinations
 - [Greige Color Palette](https://mystofa.com/colors/greige) — The versatile grey-beige blend popular in contemporary neutral interiors
 - [Adobe Color](https://color.adobe.com/) — Free color wheel, palette generator, and accessibility checker from Adobe
+- [Calculation Hub Luminance & Brightness](https://calculation-hub.com/colors/luminance-brightness) - Compare digital color luminance, HSP brightness, luma, and two-color contrast (commercial site; free tool).
 
 #### Material Libraries
 - [Architextures](https://architextures.org/) — Procedural seamless texture library for architects; dimensions, colors & patterns all editable
