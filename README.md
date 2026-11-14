@@ -153,14 +153,15 @@ This repository aims to be the ultimate collection of interior design resources.
 - [KeyShot](https://www.keyshot.com/) - Easy-to-use rendering software popular for furniture visualization
   
 #### 📐 Space Planning & Floor Plans
-- [RoomSketcher](https://www.roomsketcher.com/) - Online floor plan and home design tool
+- [Cedreo](https://cedreo.com/) - 3D home design software specifically for professionals
+- [Floor Planner](https://floorplanner.com/) - Easy-to-use online floor plan creator
+- [Live Home 3D](https://www.livehome3d.com/) - Intuitive home design software for Mac and Windows
 - [Planner 5D](https://planner5d.com) - Online interior design tool with AR capabilities
+- [Room Meadow](https://roommeadow.com/floor-plan-maker) - Browser-based 2D floor planner with measurements, furniture placement, and clearance checks (commercial; free plan)
+- [RoomSketcher](https://www.roomsketcher.com/) - Online floor plan and home design tool
 - [SmartDraw](https://www.smartdraw.com/) - Floor plan and diagram creation software
 - [Sweet Home 3D](http://www.sweethome3d.com/) - Free interior design application for 2D and 3D visualization
-- [Cedreo](https://cedreo.com/) - 3D home design software specifically for professionals
-- [Live Home 3D](https://www.livehome3d.com/) - Intuitive home design software for Mac and Windows
-- [Floor Planner](https://floorplanner.com/) - Easy-to-use online floor plan creator
-  
+
 #### ⚡ Project Management
 - [Asana](https://asana.com/) - Project and task management for design teams
 - [Trello](https://trello.com/) - Visual collaboration tool for project organization
