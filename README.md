@@ -87,6 +87,7 @@ This repository aims to be the ultimate collection of interior design resources.
 - [Interior Color Guide](https://mystofa.com/colors) — Extensive library of interior design colors with curated palettes and combinations
 - [Greige Color Palette](https://mystofa.com/colors/greige) — The versatile grey-beige blend popular in contemporary neutral interiors
 - [Adobe Color](https://color.adobe.com/) — Free color wheel, palette generator, and accessibility checker from Adobe
+- [Can You Paint a Room the Color of a Famous Painting? — Light & Pigment](https://lightandpigment.com/paint-a-room-like-a-painting/) — Light reflectance values (LRV) of 414 museum paintings compared with popular wall paints, with a free CC0 dataset
 
 #### Material Libraries
 - [Architextures](https://architextures.org/) — Procedural seamless texture library for architects; dimensions, colors & patterns all editable
@@ -114,6 +115,7 @@ This repository aims to be the ultimate collection of interior design resources.
 - [Understanding Room Layout — Designthusiasm](https://designthusiasm.com/understanding-room-layout/) — Clear breakdown of how focal points, traffic flow, and conversation zones work
 - [Scale and Proportion in Interior Design — Foyr](https://foyr.com/learn/how-to-use-scale-and-proportion-in-interior-design/) — How to balance furniture size against room dimensions for a harmonious feel
 - [How to Arrange Furniture in Architectural Spaces — ArchDaily](https://www.archdaily.com/1002700/how-to-arrange-furniture-in-architectural-spaces-7-essential-tips) — 7 expert tips from the world's largest architecture media platform
+- [Smallest Bathroom Size — FitsTheRoom](https://fitstheroom.com/smallest-bathroom-size/) — Every bathroom and half-bath size checked inch by inch against IRC code clearances, with layouts drawn to scale
 
 #### Furniture Arrangement Guides
 - [10 Furniture Placement Rules to Live By — Apartment Therapy](https://www.apartmenttherapy.com/furniture-placement-rules-254510) — Practical rules covering traffic clearances, conversation distance, and focal points
