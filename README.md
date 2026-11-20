@@ -181,6 +181,7 @@ This repository aims to be the ultimate collection of interior design resources.
 - [Interior Design Quiz](https://mystofa.com/quizes/design-test) - Quiz to find your clients interior design style preferences
 
 #### 🤖 AI Interior Design Tools
+- [3DRoomDesign.ai](https://3droomdesign.ai/) - Commercial tool with a free floor plan creator and AI-assisted conversion of floor plan images into editable 3D rooms for furniture and materials planning.
 - [myStofa Studio](https://studio.mystofa.com) — AI interior design consultation: describe your space and style, get a personalized design concept with layout, color palette, materials, and furniture recommendations, grounded in data from 200,000+ style quiz users
 
   
